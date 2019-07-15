@@ -322,5 +322,8 @@ h2 {
   top: 15vh;
   width: 70%;
 }
+footer {
+  z-index: 22;
+}
 
 }
