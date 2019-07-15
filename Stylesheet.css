@@ -211,9 +211,6 @@ img {
   right: 63%;
 }
 
-#pause {
-    padding-left: 1.1%;
-}
 
 .buttons:hover {
     cursor: pointer;
@@ -258,7 +255,6 @@ footer > p {
 *,h1, .buttons, body,main,nav,img{
   font-size: 25px;
   width: 100%;
-  overflow-x: hidden;
   display: block;
   padding: 0;
   margin: 0;
@@ -323,7 +319,7 @@ h2 {
   width: 70%;
 }
 footer {
-  z-index: 22;
+  z-index: 25;
 }
 
 }
